@@ -21,4 +21,4 @@ main()
         process.exit(1);
     });
 
-    //contract address = 0x0186717246e865FD6800570Af71d2FE72D78293e
+    //contract address = 0x748B3d26931E75a01247ac20325a194112560A1B
